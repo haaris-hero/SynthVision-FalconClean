@@ -1,0 +1,12 @@
+requests
+zipfile
+os
+shutil
+io
+ipywidgets
+IPython
+PIL
+cv2  # opencv-python
+matplotlib
+re
+random
